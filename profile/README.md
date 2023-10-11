@@ -12,8 +12,6 @@
     <br />
     <a href="https://therapistconnect.netlify.app">View Demo</a>
     <br />
-    <br />
-    <a href="https://github.com/capstone-9-3-team4"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
